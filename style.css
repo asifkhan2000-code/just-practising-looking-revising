@@ -3,3 +3,7 @@ input[type="password"]{
     color: black;
     border: 3px solid black;
 }
+input[type="text"]{
+    font-size: larger;
+    color: green;
+}
