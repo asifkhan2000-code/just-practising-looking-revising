@@ -27,6 +27,9 @@ input[type="text"]{
 }
 .italic{
     text-decoration: underline;
+    font-weight: 900;
+    font-size: 18px;
+
 }
 #bold, .holud{
     font-size: larger;
