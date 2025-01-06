@@ -12,9 +12,11 @@ input[type="text"]{
     background-color: aqua;
     border: 10px solid black;
     /* border-bottom: none; */
+    border-left: none;
     border-radius: 10px;
     margin: 10px 30px 20px;
     /* T R L B */
+    bor
 }
 .para2{
     color: red;
