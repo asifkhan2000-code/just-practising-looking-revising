@@ -1,9 +1,38 @@
-input[type="password"]{
+#password{
     background-color: aqua;
     color: black;
     border: 3px solid black;
+    border-bottom: none;
 }
 input[type="text"]{
     font-size: larger;
     color: green;
+}
+.para{
+    background-color: aqua;
+    border: 10px solid black;
+    /* border-bottom: none; */
+    border-radius: 10px;
+    margin: 10px 30px 20px;
+    /* T R L B */
+}
+.para2{
+    color: red;
+    text-align: justify;
+    margin: 10px;
+    /* all side */
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.italic{
+    text-decoration: underline;
+}
+#bold, .holud{
+    font-size: larger;
+    font-weight: 900;
+    background-color: yellow;
+    font-size: 26px;
+}
+.fixed{
+    width: 50%;
 }
